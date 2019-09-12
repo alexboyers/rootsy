@@ -1,0 +1,50 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #3F425B;
+}
+
+.container {
+  max-width: 1400px;
+}
+
+.main-color {
+  background-color: #9BD3C4;
+}
+
+.dark-color {
+  background-color: #3F425B;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 2.25rem;
+}
+
+.navbar-logo {
+  width: 35px;
+}
+
+.btn-primary:hover {
+  background-color: #9BD3C4;
+}
+
+.card-deck {
+  margin: 0 auto;
+}
+
+.card {
+  border-color: #9BD3C4;
+  margin: 10px;
+}
+
+.card img {
+  width: 200px;
+  margin: 0 auto;
+  max-width: 70%;
+
+}
+
+.col img {
+  max-width: 80%;
+}
+
