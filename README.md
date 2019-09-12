@@ -1,6 +1,8 @@
 # rootsy
 A Mockup of a fake company website
-Rootsy is an app for people who want to create or manage their community garden
+View site at https://https://alexboyers.github.io/rootsy
+
+Rootsy is an app for people who want to create and manage a community garden
 it features social tools and a garden planning tool
 there are both free and paid options for the app
 
