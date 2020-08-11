@@ -7,6 +7,14 @@ body {
   max-width: 1400px;
 }
 
+.app-image {
+  max-height: 300px;
+}
+
+.sub-text{
+  font-size: .35em;
+}
+
 .main-color {
   background-color: #9BD3C4;
 }
@@ -37,14 +45,21 @@ body {
   margin: 10px;
 }
 
-.card img {
-  width: 200px;
+.body-img {
+  
+  /* width: 200px; */
   margin: 0 auto;
-  max-width: 70%;
+  
+  max-height: 300px;
+  
+  /* object-fit: cover; */
 
 }
 
+.text-center{ 
+  text-align: center;
+}
 .col img {
-  max-width: 80%;
+  /* max-width: 80%; */
 }
 
